@@ -9,7 +9,7 @@ public class calculator {
 			sum = x+y;
 //			System.out.println(x+"+"+ y + "="+sum);
 			break;
-		case 2://
+		case 2:
 			sum = x-y;
 //			System.out.println(x+"-"+ y + "="+sum);
 			break;
